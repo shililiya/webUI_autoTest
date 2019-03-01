@@ -1,0 +1,4 @@
+2019-02-26 15:24:12,041 - root - INFO - info日志信息
+2019-02-26 15:24:12,070 - root - DEBUG - debug日志信息
+2019-02-26 15:24:12,070 - root - WARNING - warning日志信息
+2019-02-26 15:24:12,070 - root - ERROR - error日志信息
