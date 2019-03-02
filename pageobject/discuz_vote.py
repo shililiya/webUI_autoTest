@@ -44,3 +44,6 @@ class DiscuzVote(BasePage):
         logger.info("第二个选项的投票比例：%s"%second_percent)
         subject_name=self.getText(*self.home_page_vote_subject_name_loc)
         logger.info("投票的主题名称为：%s"%subject_name)
+    def voteSubjectAssert(self):
+        result=self.getText(*self.home_page_vote_subject_name_loc)
+        return result

@@ -19,6 +19,7 @@ class Delete(BasePage):
     home_page_reply_content_loc=(By.CSS_SELECTOR,'.area .pt')
     home_page_submit_reply_loc=(By.CSS_SELECTOR,'.ptm .pn')
     home_page_admin_exit_loc=(By.LINK_TEXT,'退出')
+    home_page_login_assert_loc=(By.CSS_SELECTOR,' .vwmy a')
     def delete(self):
         self.jihuo(0)
         self.click(*self.home_page_small_box_loc)
@@ -33,6 +34,7 @@ class Delete(BasePage):
         time.sleep(2)
         self.click(*self.home_page_discuz_loc)
         time.sleep(3)
+    def buildDiscuz(self):
         self.driver.switch_to.frame(0)
         self.click(*self.home_page_discuz_build_bankuai_loc)
         self.click(*self.home_page_discuz_submit_new_loc)

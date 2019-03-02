@@ -6,11 +6,12 @@ class DiscuzSearch(BaseTestCase):
     def test_search(self):
         home_page=HomePage(self.driver)
         home_page.login('lixiaoting','123456')
+        loginAssert=home_page.loginAssertPanduan()
+        self.assertEqual(loginAssert,'lixiaoting',msg=loginAssert)
         discuz_search = Search(self.driver)
         discuz_search.search('haotest')
         #测试断言
         result=discuz_search.assertPanduan()
-        print(result)
         # 测试退出
         discuz_search.tuichu()
         self.assertEqual(result, "haotest", msg=result)

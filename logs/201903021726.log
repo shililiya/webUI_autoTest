@@ -1,0 +1,14 @@
+2019-03-02 17:26:48,034 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-02 17:26:48,034 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-02 17:26:51,320 - BrowserEngine - INFO - 开始谷歌浏览器
+2019-03-02 17:26:54,214 - BrowserEngine - INFO - 打开地址：http://192.168.43.159/forum.php
+2019-03-02 17:26:55,365 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-02 17:26:55,372 - BrowserEngine - INFO - 设置隐式等待时间为10秒
+2019-03-02 17:26:55,585 - BasePage - INFO - 输入内容：lixiaoting
+2019-03-02 17:26:55,710 - BasePage - INFO - 输入内容：123456
+2019-03-02 17:26:55,810 - BasePage - INFO - click
+2019-03-02 17:27:06,499 - BasePage - INFO - click
+2019-03-02 17:27:06,748 - BasePage - INFO - 输入内容：这是题目
+2019-03-02 17:27:06,942 - BasePage - INFO - 输入内容：这是我写的内容，啦啦
+2019-03-02 17:27:08,278 - BasePage - INFO - click
+2019-03-02 17:27:08,371 - BrowserEngine - INFO - 关闭浏览器

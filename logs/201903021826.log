@@ -1,0 +1,33 @@
+2019-03-02 18:26:14,494 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-02 18:26:14,494 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-02 18:26:17,313 - BrowserEngine - INFO - 开始谷歌浏览器
+2019-03-02 18:26:19,717 - BrowserEngine - INFO - 打开地址：http://192.168.43.159/forum.php
+2019-03-02 18:26:20,839 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-02 18:26:20,843 - BrowserEngine - INFO - 设置隐式等待时间为10秒
+2019-03-02 18:26:21,018 - BasePage - INFO - 输入内容：admin
+2019-03-02 18:26:21,124 - BasePage - INFO - 输入内容：hemeihua
+2019-03-02 18:26:21,227 - BasePage - INFO - click
+2019-03-02 18:26:34,897 - BasePage - INFO - click
+2019-03-02 18:26:35,004 - BasePage - INFO - click
+2019-03-02 18:26:36,472 - BasePage - INFO - click
+2019-03-02 18:26:37,122 - BasePage - INFO - click
+2019-03-02 18:26:37,299 - BasePage - INFO - click
+2019-03-02 18:26:53,870 - BasePage - ERROR - <pageobject.discuz_delete.Delete object at 0x0385DE30>页面中未找到('css selector', '.loginform input')元素
+2019-03-02 18:26:53,870 - BasePage - ERROR - 输入内容失败：'NoneType' object has no attribute 'send_keys'
+2019-03-02 18:27:04,422 - BasePage - ERROR - <pageobject.discuz_delete.Delete object at 0x0385DE30>页面中未找到('css selector', '.loginnofloat input')元素
+2019-03-02 18:27:04,423 - BasePage - ERROR - 单击失败'NoneType' object has no attribute 'click'
+2019-03-02 18:27:06,844 - BasePage - INFO - click
+2019-03-02 18:27:10,106 - BasePage - INFO - click
+2019-03-02 18:27:10,436 - BasePage - INFO - click
+2019-03-02 18:27:10,989 - BasePage - INFO - click
+2019-03-02 18:27:16,271 - BasePage - INFO - click
+2019-03-02 18:27:18,615 - BasePage - INFO - 输入内容：lixiaoting
+2019-03-02 18:27:18,703 - BasePage - INFO - 输入内容：123456
+2019-03-02 18:27:18,779 - BasePage - INFO - click
+2019-03-02 18:27:29,289 - BasePage - INFO - click
+2019-03-02 18:27:34,409 - BasePage - INFO - 输入内容：幸运
+2019-03-02 18:27:34,614 - BasePage - INFO - 输入内容：啦啦啦啦啦啦啦啦啦啦啦啦啦啦
+2019-03-02 18:27:36,858 - BasePage - INFO - click
+2019-03-02 18:27:39,036 - BasePage - INFO - 输入内容：每天都要加油啊啦啦啦啦啦啦啦啦啦啦啦啦啦
+2019-03-02 18:27:39,560 - BasePage - INFO - click
+2019-03-02 18:27:39,560 - BrowserEngine - INFO - 关闭浏览器
