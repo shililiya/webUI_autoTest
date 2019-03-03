@@ -2,21 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4b913ea-67a2-4ffe-9b7a-898517f4f2f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/framework/util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201902281915.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903011051.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageobject/discuz_delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobject/discuz_delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageobject/discuz_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobject/discuz_homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageobject/discuz_send_reply.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobject/discuz_send_reply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pageobject/discuz_vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobject/discuz_vote.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reporter/result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuites/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/geckodriver.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuites/test_delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_delete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuites/test_discuz_all.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_discuz_all.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuites/test_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuites/test_send_reply.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_send_reply.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsuites/test_vote.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_vote.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/framework/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021627.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021628.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021631.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021642.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021644.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021723.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021726.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021728.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021733.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021737.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021759.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021806.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021820.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903021826.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903022023.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903022025.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903022026.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903022053.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-03-02-20_53_32_result.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,14 +35,16 @@
     <session id="-1587217219">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="3" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.56" value="1" />
@@ -43,33 +52,35 @@
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.86" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="ini" value="7" />
-          <entry key="log" value="56" />
-          <entry key="py" value="106" />
+          <entry key="ini" value="8" />
+          <entry key="log" value="75" />
+          <entry key="png" value="9" />
+          <entry key="py" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="63" />
-          <entry key="Python" value="106" />
+          <entry key="Image" value="9" />
+          <entry key="PLAIN_TEXT" value="83" />
+          <entry key="Python" value="110" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="76" />
-          <entry key="ini" value="42" />
-          <entry key="py" value="7304" />
+          <entry key="ini" value="88" />
+          <entry key="py" value="7596" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="118" />
-          <entry key="Python" value="7304" />
+          <entry key="PLAIN_TEXT" value="164" />
+          <entry key="Python" value="7596" />
         </counts>
       </usages-collector>
     </session>
@@ -82,8 +93,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/framework/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+            <state relative-caret-position="359">
+              <caret line="83" column="60" lean-forward="true" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,53 +105,37 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+            <state relative-caret-position="285">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pageobject/discuz_homepage.py">
+        <entry file="file://$PROJECT_DIR$/testsuites/test_delete.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testsuites/test_vote.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pageobject/discuz_vote.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/framework/util.py">
+        <entry file="file://$PROJECT_DIR$/testsuites/test_send_reply.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
-                <marker date="1551424490325" expanded="true" signature="122:127" ph="..." />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -166,26 +164,26 @@
         <option value="$PROJECT_DIR$/testsuites/test_discuz_send_reply.py" />
         <option value="$PROJECT_DIR$/framework/browser_engine.py" />
         <option value="$PROJECT_DIR$/testsuites/test_discuz.py" />
-        <option value="$PROJECT_DIR$/framework/base.py" />
         <option value="$PROJECT_DIR$/framework/uilt.py" />
         <option value="$PROJECT_DIR$/framework/util.py" />
-        <option value="$PROJECT_DIR$/config/config.ini" />
         <option value="$PROJECT_DIR$/pageobject/discuz_search.py" />
         <option value="$PROJECT_DIR$/pageobject/discuz_send_reply.py" />
         <option value="$PROJECT_DIR$/pageobject/discuz_homepage.py" />
         <option value="$PROJECT_DIR$/testsuites/test_send_reply.py" />
         <option value="$PROJECT_DIR$/pageobject/discuz_delete.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_delete.py" />
         <option value="$PROJECT_DIR$/testsuites/test_search.py" />
         <option value="$PROJECT_DIR$/pageobject/discuz_vote.py" />
         <option value="$PROJECT_DIR$/testsuites/test_vote.py" />
         <option value="$PROJECT_DIR$/testsuites/test_discuz_all.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/testsuites/test_delete.py" />
+        <option value="$PROJECT_DIR$/framework/base.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="362" />
-    <option name="y" value="28" />
+    <option name="x" value="360" />
+    <option name="y" value="26" />
     <option name="width" value="1345" />
     <option name="height" value="1015" />
   </component>
@@ -195,6 +193,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -211,6 +210,11 @@
               <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
               <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
@@ -236,7 +240,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,15 +404,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7793494" visible="true" weight="0.18626156" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7793494" visible="true" weight="0.18626156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.22065064" side_tool="true" weight="0.18361954" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21104816" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.039660055" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -427,44 +430,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/logs/201902281024.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281020.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281019.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281015.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281011.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281007.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281001.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902280940.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281732.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281725.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281721.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281716.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281713.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281711.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281738.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281740.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281739.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902272032.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902272058.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281042.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281734.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281826.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902281839.log" />
-    <entry file="file://$PROJECT_DIR$/framework/logger.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-244">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/logs/201902282056.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902282058.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902282059.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902282153.log" />
@@ -474,63 +439,10 @@
     <entry file="file://$PROJECT_DIR$/logs/201902282124.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902282101.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902281915.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201903011556.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-637" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/testsuites/base_testcase.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/util.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-            <marker date="1551424490325" expanded="true" signature="122:127" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_send_reply.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobject/discuz_send_reply.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="70" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_delete.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -545,16 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/framework/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="51" column="32" lean-forward="true" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -562,43 +464,124 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pageobject/discuz_homepage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pageobject/discuz_vote.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="45" column="47" lean-forward="true" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+        <state relative-caret-position="152">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testsuites/test_vote.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        <state relative-caret-position="304">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/discuz_vote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="45" column="47" selection-start-line="45" selection-start-column="47" selection-end-line="45" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/util.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pageobject/discuz_send_reply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img201903031356.png" />
+    <entry file="file://$PROJECT_DIR$/img201903031355.png" />
+    <entry file="file://$PROJECT_DIR$/img201903031354.png" />
+    <entry file="file://$PROJECT_DIR$/img201903031353.png" />
+    <entry file="file://$PROJECT_DIR$/img201903031352.png" />
+    <entry file="file://$PROJECT_DIR$/logs/201903031412.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903031404.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903022026.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021628.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021631.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021642.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021644.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021723.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021726.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021728.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021737.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021759.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021806.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021820.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903021826.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903022023.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903022025.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903011556.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-713">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/201903022053.log" />
+    <entry file="file://$PROJECT_DIR$/testsuites/test_delete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_send_reply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="83" column="60" lean-forward="true" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/img201903032014.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/img201903032015.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/img201903032016.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/img201903032017.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        <state relative-caret-position="285">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>

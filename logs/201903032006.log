@@ -1,0 +1,93 @@
+2019-03-03 20:06:48,701 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-03 20:06:48,711 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-03 20:07:02,844 - BrowserEngine - INFO - 开始谷歌浏览器
+2019-03-03 20:07:10,224 - BrowserEngine - INFO - 打开地址：http://192.168.43.159/forum.php
+2019-03-03 20:07:11,383 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-03 20:07:11,475 - BrowserEngine - INFO - 设置隐式等待时间为10秒
+2019-03-03 20:07:13,953 - BasePage - INFO - 输入内容：lixiaoting
+2019-03-03 20:07:14,065 - BasePage - INFO - 输入内容：123456
+2019-03-03 20:07:14,233 - BasePage - INFO - click
+2019-03-03 20:07:24,301 - BasePage - INFO - 帖子和期望值一样:lixiaoting
+2019-03-03 20:07:25,549 - BasePage - INFO - click
+2019-03-03 20:07:25,650 - BasePage - INFO - 帖子和期望值一样:nows
+2019-03-03 20:07:25,651 - BrowserEngine - INFO - 关闭浏览器
+2019-03-03 20:07:28,014 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-03 20:07:28,014 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-03 20:07:31,032 - BrowserEngine - INFO - 开始谷歌浏览器
+2019-03-03 20:07:34,495 - BrowserEngine - INFO - 打开地址：http://192.168.43.159/forum.php
+2019-03-03 20:07:35,617 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-03 20:07:35,618 - BrowserEngine - INFO - 设置隐式等待时间为10秒
+2019-03-03 20:07:35,849 - BasePage - INFO - 输入内容：admin
+2019-03-03 20:07:35,963 - BasePage - INFO - 输入内容：hemeihua
+2019-03-03 20:07:36,070 - BasePage - INFO - click
+2019-03-03 20:07:46,129 - BasePage - INFO - 帖子和期望值一样:admin
+2019-03-03 20:07:51,958 - BasePage - INFO - click
+2019-03-03 20:07:52,128 - BasePage - INFO - click
+2019-03-03 20:07:52,868 - BasePage - INFO - click
+2019-03-03 20:07:53,676 - BasePage - INFO - click
+2019-03-03 20:07:53,906 - BasePage - INFO - click
+2019-03-03 20:08:00,107 - BasePage - INFO - 输入内容：hemeihua
+2019-03-03 20:08:23,692 - BasePage - INFO - click
+2019-03-03 20:08:26,183 - BasePage - INFO - click
+2019-03-03 20:08:29,441 - BasePage - INFO - click
+2019-03-03 20:08:29,843 - BasePage - INFO - click
+2019-03-03 20:08:30,276 - BasePage - INFO - click
+2019-03-03 20:08:35,640 - BasePage - INFO - click
+2019-03-03 20:08:38,017 - BasePage - INFO - 输入内容：lixiaoting
+2019-03-03 20:08:38,104 - BasePage - INFO - 输入内容：123456
+2019-03-03 20:08:38,177 - BasePage - INFO - click
+2019-03-03 20:08:48,290 - BasePage - INFO - 帖子和期望值一样:lixiaoting
+2019-03-03 20:08:53,767 - BasePage - INFO - click
+2019-03-03 20:08:58,981 - BasePage - INFO - 输入内容：幸运
+2019-03-03 20:08:59,117 - BasePage - INFO - 输入内容：啦啦啦啦啦啦啦啦啦啦啦啦啦啦
+2019-03-03 20:09:04,183 - BasePage - INFO - click
+2019-03-03 20:09:06,480 - BasePage - INFO - 输入内容：每天都要加油啊啦啦啦啦啦啦啦啦啦啦啦啦啦
+2019-03-03 20:09:06,745 - BasePage - INFO - click
+2019-03-03 20:09:06,745 - BrowserEngine - INFO - 关闭浏览器
+2019-03-03 20:09:09,100 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-03 20:09:09,100 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-03 20:09:11,650 - BrowserEngine - INFO - 开始谷歌浏览器
+2019-03-03 20:09:14,485 - BrowserEngine - INFO - 打开地址：http://192.168.43.159/forum.php
+2019-03-03 20:09:15,604 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-03 20:09:15,605 - BrowserEngine - INFO - 设置隐式等待时间为10秒
+2019-03-03 20:09:15,806 - BasePage - INFO - 输入内容：lixiaoting
+2019-03-03 20:09:15,914 - BasePage - INFO - 输入内容：123456
+2019-03-03 20:09:16,026 - BasePage - INFO - click
+2019-03-03 20:09:26,103 - BasePage - INFO - 帖子和期望值一样:lixiaoting
+2019-03-03 20:09:26,233 - BasePage - INFO - 输入内容：haotest
+2019-03-03 20:09:26,350 - BasePage - INFO - click
+2019-03-03 20:09:32,548 - BasePage - INFO - 帖子和期望值一样:haotest
+2019-03-03 20:09:32,832 - BasePage - INFO - click
+2019-03-03 20:09:32,832 - BrowserEngine - INFO - 关闭浏览器
+2019-03-03 20:09:35,106 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-03 20:09:35,106 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-03 20:09:37,959 - BrowserEngine - INFO - 开始谷歌浏览器
+2019-03-03 20:09:42,148 - BrowserEngine - INFO - 打开地址：http://192.168.43.159/forum.php
+2019-03-03 20:09:43,305 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-03 20:09:43,308 - BrowserEngine - INFO - 设置隐式等待时间为10秒
+2019-03-03 20:09:43,496 - BasePage - INFO - 输入内容：lixiaoting
+2019-03-03 20:09:43,606 - BasePage - INFO - 输入内容：123456
+2019-03-03 20:09:43,695 - BasePage - INFO - click
+2019-03-03 20:09:58,810 - BasePage - INFO - 帖子和期望值一样:lixiaoting
+2019-03-03 20:09:59,454 - BasePage - INFO - click
+2019-03-03 20:10:00,161 - BasePage - INFO - click
+2019-03-03 20:10:00,956 - BasePage - INFO - click
+2019-03-03 20:10:03,082 - BasePage - INFO - 输入内容：啦啦啦
+2019-03-03 20:10:03,228 - BasePage - INFO - 输入内容：我是卖报的小行家
+2019-03-03 20:10:03,376 - BasePage - INFO - 输入内容：不等天明来卖报
+2019-03-03 20:10:03,528 - BasePage - INFO - click
+2019-03-03 20:10:04,814 - BasePage - INFO - 帖子和期望值一样:啦啦啦
+2019-03-03 20:10:08,945 - BasePage - INFO - click
+2019-03-03 20:10:11,943 - BasePage - INFO - click
+2019-03-03 20:10:16,051 - BasePage - INFO - 帖子和期望值一样:1.  不等天明来卖报
+2019-03-03 20:10:16,051 - DiscuzVote - INFO - 第一个选项的名称：1.  不等天明来卖报
+2019-03-03 20:10:16,101 - BasePage - INFO - 帖子和期望值一样:100.00% (1)
+2019-03-03 20:10:16,101 - DiscuzVote - INFO - 第一个选项的投票比例：100.00% (1)
+2019-03-03 20:10:16,151 - BasePage - INFO - 帖子和期望值一样:2.  我是卖报的小行家
+2019-03-03 20:10:16,151 - DiscuzVote - INFO - 第二个选项的名字：2.  我是卖报的小行家
+2019-03-03 20:10:16,211 - BasePage - INFO - 帖子和期望值一样:0.00% (0)
+2019-03-03 20:10:16,211 - DiscuzVote - INFO - 第二个选项的投票比例：0.00% (0)
+2019-03-03 20:10:16,261 - BasePage - INFO - 帖子和期望值一样:啦啦啦
+2019-03-03 20:10:16,261 - DiscuzVote - INFO - 投票的主题名称为：啦啦啦
+2019-03-03 20:10:17,379 - BasePage - INFO - click
+2019-03-03 20:10:17,379 - BrowserEngine - INFO - 关闭浏览器
