@@ -3,27 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="f4b913ea-67a2-4ffe-9b7a-898517f4f2f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/framework/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/framework/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021627.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021628.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021631.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021642.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021644.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021723.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021726.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021728.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021733.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021737.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021759.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021806.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021820.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903021826.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903022023.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903022025.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903022026.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/201903022053.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/report/2019-03-02-20_53_32_result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img201903032014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img201903032015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img201903032016.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/img201903032017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903011556.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903032006.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/201903032014.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pageobject/discuz_send_reply.py" beforeDir="false" afterPath="$PROJECT_DIR$/pageobject/discuz_send_reply.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-03-03-20_06_48_result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/2019-03-03-20_14_04_result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testsuites/test_send_reply.py" beforeDir="false" afterPath="$PROJECT_DIR$/testsuites/test_send_reply.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,52 +26,55 @@
     <session id="-1587217219">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.26" value="3" />
+          <entry key="project.open.time.26" value="4" />
           <entry key="project.open.time.28" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.58" value="1" />
           <entry key="project.open.time.68" value="1" />
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.86" value="1" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="html" value="1" />
           <entry key="ini" value="8" />
-          <entry key="log" value="75" />
-          <entry key="png" value="9" />
-          <entry key="py" value="110" />
+          <entry key="log" value="78" />
+          <entry key="png" value="11" />
+          <entry key="py" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="9" />
-          <entry key="PLAIN_TEXT" value="83" />
-          <entry key="Python" value="110" />
+          <entry key="HTML" value="1" />
+          <entry key="Image" value="11" />
+          <entry key="PLAIN_TEXT" value="86" />
+          <entry key="Python" value="113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="76" />
           <entry key="ini" value="88" />
-          <entry key="py" value="7596" />
+          <entry key="py" value="7609" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="164" />
-          <entry key="Python" value="7596" />
+          <entry key="Python" value="7609" />
         </counts>
       </usages-collector>
     </session>
@@ -93,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/framework/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="83" column="60" lean-forward="true" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
+            <state relative-caret-position="1311">
+              <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
               <folding>
                 <element signature="e#0#57#0" expanded="true" />
               </folding>
@@ -102,11 +96,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/logger.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_all.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <state relative-caret-position="95">
+              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -132,11 +149,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testsuites/test_send_reply.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            <state relative-caret-position="228">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pageobject/discuz_send_reply.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -167,23 +193,23 @@
         <option value="$PROJECT_DIR$/framework/uilt.py" />
         <option value="$PROJECT_DIR$/framework/util.py" />
         <option value="$PROJECT_DIR$/pageobject/discuz_search.py" />
-        <option value="$PROJECT_DIR$/pageobject/discuz_send_reply.py" />
         <option value="$PROJECT_DIR$/pageobject/discuz_homepage.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_send_reply.py" />
         <option value="$PROJECT_DIR$/pageobject/discuz_delete.py" />
         <option value="$PROJECT_DIR$/testsuites/test_search.py" />
         <option value="$PROJECT_DIR$/pageobject/discuz_vote.py" />
         <option value="$PROJECT_DIR$/testsuites/test_vote.py" />
-        <option value="$PROJECT_DIR$/testsuites/test_discuz_all.py" />
         <option value="$PROJECT_DIR$/config/config.ini" />
         <option value="$PROJECT_DIR$/testsuites/test_delete.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_discuz_all.py" />
         <option value="$PROJECT_DIR$/framework/base.py" />
+        <option value="$PROJECT_DIR$/testsuites/test_send_reply.py" />
+        <option value="$PROJECT_DIR$/pageobject/discuz_send_reply.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="360" />
-    <option name="y" value="26" />
+    <option name="y" value="25" />
     <option name="width" value="1345" />
     <option name="height" value="1015" />
   </component>
@@ -193,59 +219,45 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
-              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
-              <item name="logs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
-              <item name="pageobject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DiscuzProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DiscuzProject" type="462c0819:PsiDirectoryNode" />
-              <item name="testsuites" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\DiscuzProject\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python\DiscuzProject" />
       <recent name="D:\Python\DiscuzProject\tools" />
@@ -351,10 +363,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.test_discuz_all" />
+        <item itemvalue="Python tests.Unittests in test_send_reply.py" />
         <item itemvalue="Python tests.Unittests for test_vote.Vote.test_vote" />
         <item itemvalue="Python tests.Unittests for test_delete.DiscuzDelete.test_delete" />
         <item itemvalue="Python tests.Unittests for test_send_reply.DiscuzSendReply.test_send_reply" />
-        <item itemvalue="Python tests.Unittests in test_send_reply.py" />
       </list>
     </recent_temporary>
   </component>
@@ -372,12 +384,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_send_reply_py - 2019.03.02 at 17h 28m 54s.xml">
-      <configuration name="Unittests in test_send_reply.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_send_reply_DiscuzSendReply_test_send_reply - 2019.03.02 at 17h 34m 01s.xml">
-      <configuration name="Unittests for test_send_reply.DiscuzSendReply.test_send_reply" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_send_reply_DiscuzSendReply_test_send_reply - 2019.03.02 at 17h 37m 43s.xml">
       <configuration name="Unittests for test_send_reply.DiscuzSendReply.test_send_reply" configurationId="tests" />
     </history-entry>
@@ -402,17 +408,22 @@
     <history-entry file="Unittests_for_test_vote_Vote_test_vote - 2019.03.02 at 20h 26m 58s.xml">
       <configuration name="Unittests for test_vote.Vote.test_vote" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_send_reply_py - 2019.03.03 at 22h 06m 26s.xml">
+      <configuration name="Unittests in test_send_reply.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_send_reply_py - 2019.03.03 at 22h 07m 14s.xml">
+      <configuration name="Unittests in test_send_reply.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7793494" visible="true" weight="0.18626156" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.22065064" side_tool="true" weight="0.18361954" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.039660055" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43909347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -430,12 +441,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/logs/201902282058.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902282059.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902282153.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201903010905.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902282142.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201902282132.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902282124.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902282101.log" />
     <entry file="file://$PROJECT_DIR$/logs/201902281915.log" />
@@ -495,13 +500,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pageobject/discuz_send_reply.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img201903031356.png" />
     <entry file="file://$PROJECT_DIR$/img201903031355.png" />
     <entry file="file://$PROJECT_DIR$/img201903031354.png" />
@@ -524,28 +522,60 @@
     <entry file="file://$PROJECT_DIR$/logs/201903021826.log" />
     <entry file="file://$PROJECT_DIR$/logs/201903022023.log" />
     <entry file="file://$PROJECT_DIR$/logs/201903022025.log" />
-    <entry file="file://$PROJECT_DIR$/logs/201903011556.log">
+    <entry file="file://$PROJECT_DIR$/logs/201903011556.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903022053.log" />
+    <entry file="file://$PROJECT_DIR$/img/img201903032015.png" />
+    <entry file="file://$PROJECT_DIR$/img/img201903032016.png" />
+    <entry file="file://$PROJECT_DIR$/img/img201903032017.png" />
+    <entry file="file://$PROJECT_DIR$/img/img201903032014.png" />
+    <entry file="file://$PROJECT_DIR$/img201903032144.png" />
+    <entry file="file://$PROJECT_DIR$/logs/201903032143.log" />
+    <entry file="file://$PROJECT_DIR$/logs/201903032146.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-713">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="-1581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/2019-03-03-21_36_22_result.html" />
+    <entry file="file://$PROJECT_DIR$/framework/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="73" column="52" selection-start-line="73" selection-start-column="52" selection-end-line="73" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/logs/201903022053.log" />
+    <entry file="file://$PROJECT_DIR$/framework/logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/framework/browser_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/testsuites/test_delete.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_send_reply.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -556,32 +586,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/framework/base.py">
+    <entry file="file://$PROJECT_DIR$/testsuites/test_send_reply.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="83" column="60" lean-forward="true" selection-start-line="83" selection-start-column="60" selection-end-line="83" selection-end-column="60" />
+        <state relative-caret-position="228">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding>
-            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/img201903032014.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/img201903032015.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/img201903032016.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/img201903032017.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testsuites/test_discuz_all.py">
+    <entry file="file://$PROJECT_DIR$/pageobject/discuz_send_reply.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>

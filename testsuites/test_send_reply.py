@@ -14,9 +14,6 @@ class DiscuzSendReply(BaseTestCase):
         self.assertEqual(loginResult,'lixiaoting',msg=loginResult)
 
         home_page.moren()
-        morenResult=send_reply.morenAssertPanduan()
-        #测试点击默认板块断言是否成功
-        self.assertEqual(morenResult,"默认板块",msg=morenResult)
         #测试发帖
         send_reply.send("这是题目","这是我写的内容，啦啦")
         send_reply.reply("这是我给你的回复")

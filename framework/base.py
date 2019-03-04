@@ -23,18 +23,14 @@ class BasePage(object):
         try:
             self.driver.close()
             logger.info("关闭当前页面")
-            self.get_window_img()
         except Exception as e:
             logger.error("关闭失败"%e)
-            self.get_window_img()
     def find_element(self,*loc):
         try:
             WebDriverWait(self.driver,10).until(EC.visibility_of_element_located(loc))
             ele=self.driver.find_element(*loc)
             # logger.info("找到页面元素%s" *loc)
-            self.get_window_img()
             return ele
-
         except:
             logger.error("%s页面中未找到%s元素"%(self,loc))
             self.get_window_img()
@@ -43,7 +39,6 @@ class BasePage(object):
         try:
             el.send_keys(text)
             logger.info("输入内容：%s" % text)
-            self.get_window_img()
         except Exception as e:
             logger.error("输入内容失败：%s" %e)
             self.get_window_img()
@@ -52,7 +47,6 @@ class BasePage(object):
         try:
             el.clear()
             logger.info("清除成功")
-            self.get_window_img()
         except Exception as e:
             logger.error("清除失败:%s"%e)
             self.get_window_img()
@@ -61,7 +55,6 @@ class BasePage(object):
         try:
             el.click()
             logger.info("click")
-            self.get_window_img()
         except Exception as e:
             logger.error("单击失败%s"%e)
             self.get_window_img()
@@ -74,7 +67,6 @@ class BasePage(object):
             logger.info("帖子和期望值一样:%s" %content)
             self.get_window_img()
             return content
-
         except Exception as e:
             logger.info("帖子和期望值不同:%s"%e)
             self.get_window_img()

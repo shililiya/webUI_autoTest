@@ -1,0 +1,84 @@
+2019-03-03 22:07:38,671 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-03 22:07:38,671 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-03 22:07:41,163 - BrowserEngine - INFO - 开始谷歌浏览器
+2019-03-03 22:07:44,469 - BrowserEngine - INFO - 打开地址：http://192.168.43.159/forum.php
+2019-03-03 22:07:45,589 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-03 22:07:45,591 - BrowserEngine - INFO - 设置隐式等待时间为10秒
+2019-03-03 22:07:45,797 - BasePage - INFO - 输入内容：lixiaoting
+2019-03-03 22:07:45,923 - BasePage - INFO - 输入内容：123456
+2019-03-03 22:07:46,019 - BasePage - INFO - click
+2019-03-03 22:07:56,145 - BasePage - INFO - 帖子和期望值一样:lixiaoting
+2019-03-03 22:07:56,558 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:07:57,423 - BasePage - INFO - click
+2019-03-03 22:07:57,532 - BasePage - INFO - 帖子和期望值一样:nows
+2019-03-03 22:07:57,877 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:07:58,007 - BasePage - INFO - 输入内容：这是题目
+2019-03-03 22:07:58,135 - BasePage - INFO - 输入内容：这是我写的内容，啦啦
+2019-03-03 22:07:59,476 - BasePage - INFO - click
+2019-03-03 22:07:59,670 - BasePage - INFO - 输入内容：这是我给你的回复
+2019-03-03 22:07:59,962 - BasePage - INFO - click
+2019-03-03 22:08:00,281 - BasePage - INFO - click
+2019-03-03 22:08:00,281 - BrowserEngine - INFO - 关闭浏览器
+2019-03-03 22:08:02,571 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-03 22:08:02,571 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-03 22:08:04,947 - BrowserEngine - INFO - 开始谷歌浏览器
+2019-03-03 22:08:08,445 - BrowserEngine - INFO - 打开地址：http://192.168.43.159/forum.php
+2019-03-03 22:08:09,602 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-03 22:08:09,604 - BrowserEngine - INFO - 设置隐式等待时间为10秒
+2019-03-03 22:08:09,749 - BasePage - INFO - 输入内容：admin
+2019-03-03 22:08:09,857 - BasePage - INFO - 输入内容：hemeihua
+2019-03-03 22:08:09,937 - BasePage - INFO - click
+2019-03-03 22:08:20,056 - BasePage - INFO - 帖子和期望值一样:admin
+2019-03-03 22:08:20,418 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:08:47,263 - BasePage - INFO - click
+2019-03-03 22:08:57,810 - BasePage - ERROR - <pageobject.discuz_delete.Delete object at 0x03C97F70>页面中未找到('css selector', '.o input')元素
+2019-03-03 22:08:58,164 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:08:58,164 - BasePage - ERROR - 单击失败'NoneType' object has no attribute 'click'
+2019-03-03 22:08:58,488 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:09:09,080 - BasePage - ERROR - <pageobject.discuz_delete.Delete object at 0x03C97F70>页面中未找到('link text', '删除')元素
+2019-03-03 22:09:09,421 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:09:09,421 - BasePage - ERROR - 单击失败'NoneType' object has no attribute 'click'
+2019-03-03 22:09:09,751 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:09:20,326 - BasePage - ERROR - <pageobject.discuz_delete.Delete object at 0x03C97F70>页面中未找到('css selector', '.o button')元素
+2019-03-03 22:09:20,671 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:09:20,681 - BasePage - ERROR - 单击失败'NoneType' object has no attribute 'click'
+2019-03-03 22:09:20,990 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:09:31,551 - BasePage - ERROR - <pageobject.discuz_delete.Delete object at 0x03C97F70>页面中未找到('link text', '管理中心')元素
+2019-03-03 22:09:31,900 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:09:31,900 - BasePage - ERROR - 单击失败'NoneType' object has no attribute 'click'
+2019-03-03 22:09:32,221 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:09:37,229 - BrowserEngine - INFO - 关闭浏览器
+2019-03-03 22:09:39,645 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-03 22:09:39,655 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-03 22:09:42,129 - BrowserEngine - INFO - 开始谷歌浏览器
+2019-03-03 22:10:03,507 - BrowserEngine - INFO - 打开地址：http://192.168.43.159/forum.php
+2019-03-03 22:10:04,635 - BrowserEngine - INFO - 最大化当前窗口
+2019-03-03 22:10:04,636 - BrowserEngine - INFO - 设置隐式等待时间为10秒
+2019-03-03 22:10:15,147 - BasePage - ERROR - <pageobject.discuz_homepage.HomePage object at 0x041028F0>页面中未找到('name', 'username')元素
+2019-03-03 22:10:15,482 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:10:15,482 - BasePage - ERROR - 输入内容失败：'NoneType' object has no attribute 'send_keys'
+2019-03-03 22:10:15,828 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:10:26,371 - BasePage - ERROR - <pageobject.discuz_homepage.HomePage object at 0x041028F0>页面中未找到('name', 'password')元素
+2019-03-03 22:10:26,724 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:10:26,724 - BasePage - ERROR - 输入内容失败：'NoneType' object has no attribute 'send_keys'
+2019-03-03 22:10:27,029 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:10:37,609 - BasePage - ERROR - <pageobject.discuz_homepage.HomePage object at 0x041028F0>页面中未找到('css selector', '.fastlg_l>button')元素
+2019-03-03 22:10:37,929 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:10:37,929 - BasePage - ERROR - 单击失败'NoneType' object has no attribute 'click'
+2019-03-03 22:10:38,282 - BasePage - INFO - 有截屏且保存路径是/img/
+2019-03-03 22:10:49,743 - BasePage - ERROR - <pageobject.discuz_homepage.HomePage object at 0x041028F0>页面中未找到('css selector', '.vwmy a')元素
+2019-03-03 22:10:49,743 - BasePage - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+截屏失败
+2019-03-03 22:10:49,743 - BasePage - INFO - 帖子和期望值不同:'NoneType' object has no attribute 'text'
+2019-03-03 22:10:49,743 - BasePage - ERROR - Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=69.0.3497.100)
+  (Driver info: chromedriver=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e),platform=Windows NT 10.0.17134 x86_64)
+截屏失败
+2019-03-03 22:10:49,743 - BrowserEngine - INFO - 关闭浏览器
+2019-03-03 22:10:51,968 - BrowserEngine - INFO - 你选择Chrome浏览器
+2019-03-03 22:10:51,968 - BrowserEngine - INFO - 这个服务器的地址是：http://192.168.43.159/forum.php
+2019-03-03 22:10:54,509 - BrowserEngine - INFO - 开始谷歌浏览器

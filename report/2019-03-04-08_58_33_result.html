@@ -189,9 +189,9 @@ function showOutput(id, name) {
 
 <div class='heading'>
 <h1>论坛测试报告</h1>
-<p class='attribute'><strong>Start Time:</strong> 2019-03-03 20:14:04</p>
-<p class='attribute'><strong>Duration:</strong> 0:03:47.538830</p>
-<p class='attribute'><strong>Status:</strong> Pass 3 Failure 1</p>
+<p class='attribute'><strong>Start Time:</strong> 2019-03-04 08:58:33</p>
+<p class='attribute'><strong>Duration:</strong> 0:04:48.936891</p>
+<p class='attribute'><strong>Status:</strong> Pass 4</p>
 
 <p class='description'>论坛用例执行情况</p>
 </div>
@@ -221,51 +221,18 @@ function showOutput(id, name) {
     <td>View</td>
 </tr>
 
-<tr class='failClass'>
+<tr class='passClass'>
     <td>testsuites.test_send_reply.DiscuzSendReply</td>
     <td>1</td>
-    <td>0</td>
     <td>1</td>
+    <td>0</td>
     <td>0</td>
     <td><a href="javascript:showClassDetail('c1',1)">Detail</a></td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td class='failCase'><div class='testcase'>test_send_reply</div></td>
-    <td colspan='5' align='center'>
-
-    <!--css div popup start-->
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        fail</a>
-
-    <div id='div_ft1.1' class="popup_window">
-        <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
-           [x]</a>
-        </div>
-        <pre>
-        
-ft1.1: Traceback (most recent call last):
-  File "D:\Python\DiscuzProject\testsuites\test_send_reply.py", line 19, in test_send_reply
-    self.assertEqual(morenResult,"默认板块",msg=morenResult)
-AssertionError: 'nows' != '默认板块'
-- nows
-+ 默认板块
- : nows
-Traceback (most recent call last):
-  File "D:\Python\DiscuzProject\testsuites\test_send_reply.py", line 19, in test_send_reply
-    self.assertEqual(morenResult,"默认板块",msg=morenResult)
-AssertionError: 'nows' != '默认板块'
-- nows
-+ 默认板块
- : nows
-
-
-        </pre>
-    </div>
-    <!--css div popup end-->
-
-    </td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td class='none'><div class='testcase'>test_send_reply</div></td>
+    <td colspan='5' align='center'>pass</td>
 </tr>
 
 <tr class='passClass'>
@@ -313,8 +280,8 @@ AssertionError: 'nows' != '默认板块'
 <tr id='total_row'>
     <td>Total</td>
     <td>4</td>
-    <td>3</td>
-    <td>1</td>
+    <td>4</td>
+    <td>0</td>
     <td>0</td>
     <td>&nbsp;</td>
 </tr>
